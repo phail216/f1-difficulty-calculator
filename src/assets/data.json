@@ -1,0 +1,31 @@
+{
+    "version":"1",
+    "tracks": [
+        {
+            "name":"Spain",
+            "ai-data": [
+                {
+                    "time":"123456",
+                    "difficulty": "95"
+                },
+                {
+                    "time":"1234567",
+                    "difficulty": "85"
+                }
+            ]       
+        },
+        {
+            "name":"Brazil",
+            "ai-data": [
+                {
+                    "time":"123456",
+                    "difficulty": "95"
+                },
+                {
+                    "time":"1234567",
+                    "difficulty": "85"
+                }
+            ]       
+        }
+    ]
+}

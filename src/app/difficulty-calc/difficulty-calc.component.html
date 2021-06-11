@@ -1,0 +1,7 @@
+<p>difficulty-calc works!</p>
+
+<div *ngIf="trackData$ | async as trackData">
+<div *ngFor="let track of trackData.tracks">
+{{track.name}}
+</div>
+</div>
